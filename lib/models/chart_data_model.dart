@@ -10,6 +10,9 @@ class AssessmentRecord{
   final List<int> marks;
   final DocumentReference documentReference;
 
+
+
+
   AssessmentRecord.fromMap(Map<String, dynamic>data, {this.documentReference})
   :
     assessmentTitle = data['title'],
@@ -23,3 +26,14 @@ class AssessmentRecord{
 
   }
   
+
+
+  class Assessment{
+
+  final String name;
+  final int marks;
+
+  Assessment(this.name, this.marks);
+
+
+  }
