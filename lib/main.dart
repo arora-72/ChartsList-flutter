@@ -1,6 +1,7 @@
+import 'package:demo_charts_list_view/pages/chart_list_page.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(ChartListView());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.

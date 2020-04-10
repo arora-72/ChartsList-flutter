@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029276685162",
+    "firebase_url": "https://medium-chartlistview.firebaseio.com",
+    "project_id": "medium-chartlistview",
+    "storage_bucket": "medium-chartlistview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029276685162:android:b80608af6bfcf23b44cb13",
+        "android_client_info": {
+          "package_name": "com.demo.ChartListView"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029276685162-malcu1ke83jgphl1dt88lhvvc8ger8bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7nC2ZyOwRcS8Y5ypKpAQ5AW8DtmPDJDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029276685162-malcu1ke83jgphl1dt88lhvvc8ger8bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
