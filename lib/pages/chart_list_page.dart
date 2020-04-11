@@ -1,7 +1,7 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
+// import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:demo_charts_list_view/models/chart_data_model.dart';
 import 'package:demo_charts_list_view/utils/abstract_list.dart';
-import 'package:firebase_database/firebase_database.dart';
+// import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -13,14 +13,12 @@ class ChartListView extends StatefulWidget {
 }
 
 class _ChartListViewState extends State<ChartListView> {
-  final databaseReference = FirebaseDatabase.instance.reference();
+  // final databaseReference = FirebaseDatabase.instance.reference();
 
   @override
   void initState() {
     super.initState();
   }
-
-
 
   @override
   Widget build(BuildContext context) {
